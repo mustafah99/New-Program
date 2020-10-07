@@ -6,7 +6,7 @@ namespace New_Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Worlds!");
+            Console.WriteLine("Hola el mundo!");
         }
     }
 }
